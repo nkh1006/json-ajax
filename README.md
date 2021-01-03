@@ -1,4 +1,4 @@
-# json
-json study
+# json / ajax
+json / ajax study
 
-json에 관한 내용을 정리해서 올려둡니다.
+json와 ajax에 관한 내용을 정리해서 올려둡니다.
